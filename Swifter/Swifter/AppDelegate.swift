@@ -23,6 +23,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         window!.rootViewController = SwifterViewController();
         window!.makeKeyAndVisible();
         
+        Fabric.with([Twitter.self])
+
+        
         return true
     }
 

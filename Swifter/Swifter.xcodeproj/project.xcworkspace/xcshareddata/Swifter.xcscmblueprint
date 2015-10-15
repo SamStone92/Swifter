@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DABF1F2786B7E0025EA0D6CBBBC0EBB104A03DE0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "35A9204B31F5C8ADB71509E663801B49AF5F6F1C" : 0,
+    "DABF1F2786B7E0025EA0D6CBBBC0EBB104A03DE0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1C8513D6-EFF1-4D60-8A74-619E7E5A1DED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "35A9204B31F5C8ADB71509E663801B49AF5F6F1C" : "",
+    "DABF1F2786B7E0025EA0D6CBBBC0EBB104A03DE0" : "Swifter\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Swifter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swifter\/Swifter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/stash.hiddenltd.com:7999\/jn761\/ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35A9204B31F5C8ADB71509E663801B49AF5F6F1C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SamStone92\/Swifter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DABF1F2786B7E0025EA0D6CBBBC0EBB104A03DE0"
+    }
+  ]
+}
